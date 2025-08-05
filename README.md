@@ -70,6 +70,8 @@
 | `qwen3` | Qwen3-30B-A3Bを使用します |
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
 | `nova` | Amazon Nova Microを使用します |
+| `2.5` | Gemini 2.5 Flashを使用します |
+| `gpt` | gpt-oss-120bを使用します |
 
 #### YouTube関連
 
