@@ -97,6 +97,7 @@
 | `@kita_kitsune _search` <br> `キーワード` | キーワードに一致する投稿を検索します。 |
 | `@kita_kitsune _search` | 添付画像に類似した投稿を検索します。 |
 | `@kita_kitsune _mediacount` | ユーザーのメディアファイル保存容量を表示します。 |
+| `@kita_kitsune _getloc` | Botが接続しているサーバーの所在地を表示します。 |
 
 ### その他
 
