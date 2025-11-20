@@ -67,7 +67,8 @@
 | --- | --- |
 | `4.1` | GPT-4.1 nanoを使用します |
 | `grok3` | Grok 3 Miniを使用します |
-| `grok4` | Grok 4.1 Fastを使用します |
+| `grok41` | Grok 4.1 Fastを使用します |
+| `grok4` | Grok 4 Fastを使用します |
 | `qwen3` | Qwen3-30B-A3Bを使用します |
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
 | `nova` | Amazon Nova Microを使用します |
