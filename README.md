@@ -75,6 +75,7 @@
 | `2.5` | Gemini 2.5 Flashを使用します |
 | `gpto` | gpt-oss-120bを使用します |
 | `gpt5` | GPT-5 Nanoを使用します |
+| `gpt54` | GPT-5.4 Nanoを使用します |
 
 #### YouTube関連
 
