@@ -76,6 +76,7 @@
 | `gpto` | gpt-oss-120bを使用します |
 | `gpt5` | GPT-5 Nanoを使用します |
 | `gpt54` | GPT-5.4 Nanoを使用します |
+| `mimo2` | MiMo-V2を使用します |
 
 #### YouTube関連
 
