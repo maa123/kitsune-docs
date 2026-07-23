@@ -72,6 +72,8 @@
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
 | `nova` | Amazon Nova Microを使用します |
 | `2.5` | Gemini 2.5 Flashを使用します |
+| `3.5` | Gemini 3.5 Flash-Liteを使用します |
+| `3.6` | Gemini 3.6 Flashを使用します |
 | `gpto` | gpt-oss-120bを使用します |
 | `gpt5` | GPT-5 Nanoを使用します |
 | `gpt54` | GPT-5.4 Nanoを使用します |
