@@ -70,6 +70,7 @@
 | `inkling` | Inkling-Small を使用します |
 | `qwen3` | Qwen3-30B-A3Bを使用します |
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
+| `v4f` | DeepSeek V4 Flash 0731を使用します |
 | `nova` | Amazon Nova Microを使用します |
 | `2.5` | Gemini 2.5 Flashを使用します |
 | `3.5` | Gemini 3.5 Flash-Liteを使用します |
