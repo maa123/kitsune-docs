@@ -81,7 +81,7 @@
 | `gpto` | gpt-oss-120bを使用します |
 | `gpt5` | GPT-5 Nanoを使用します |
 | `gpt54` | GPT-5.4 Nanoを使用します |
-| `luna` | GPT-5.6 Lunaを使用します |
+| `luna` | GPT-6 Lunaを使用します |
 | `mimo2` | Mimo V2.6 Flashを使用します |
 | `muse` | Muse Glimmerを使用します |
 | `glm53` | GLM 5.3 Flashを使用します |
