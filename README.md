@@ -71,7 +71,9 @@
 | `qwen3` | Qwen3-30B-A3Bを使用します |
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
 | `v4f` | DeepSeek V4 Flash 0731を使用します |
+| `v4.1f` | DeepSeek V4.1 Flash 1017を使用します |
 | `nova` | Amazon Nova Microを使用します |
+| `haiku` | Claude Haiku 5.5を使用します |
 | `mercury` | Mercury 2.5を使用します |
 | `2.5` | Gemini 2.5 Flashを使用します |
 | `3.5` | Gemini 3.5 Flash-Liteを使用します |
@@ -86,6 +88,8 @@
 | `mimo2` | Mimo V2.6 Flashを使用します |
 | `muse` | Muse Glimmerを使用します |
 | `glm53` | GLM 5.3 Flashを使用します |
+| `nvidia` | NVIDIA Nemotron 3.5 Lightningを使用します |
+| `lfm25` | LFM2.5-24B-A2Bを使用します |
 
 #### YouTube関連
 
