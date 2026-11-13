@@ -80,6 +80,7 @@
 | `3.6` | Gemini 3.6 Flashを使用します |
 | `3.7` | Gemini 3.7 Flashを使用します |
 | `3.8` | Gemini 3.8 Flashを使用します |
+| `gemini4` | Gemini 4 Argonを使用します |
 | `carbon` | Gemini 4 Carbonを使用します |
 | `hydrogen` | Gemini 4 Hydrogenを使用します |
 | `gpto` | gpt-oss-120bを使用します |
@@ -88,7 +89,7 @@
 | `luna` | GPT-6 Lunaを使用します |
 | `pro` | GPT-6 Luna Proを使用します |
 | `mimo2` | Mimo V2.6 Flashを使用します |
-| `muse` | Muse Glimmerを使用します |
+| `muse` | Muse Emberを使用します |
 | `glm53` | GLM 5.3 Flashを使用します |
 | `nvidia` | NVIDIA Nemotron 3.5 Lightningを使用します |
 | `lfm25` | LFM2.5-24B-A2Bを使用します |
