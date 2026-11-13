@@ -67,7 +67,7 @@
 | --- | --- |
 | `4.1` | GPT-4.1 nanoを使用します |
 | `grok` | Grok 4.3 を使用します |
-| `inkling` | Inkling-Small を使用します |
+| `inkling` | Inkling 2 Small を使用します |
 | `qwen3` | Qwen3-30B-A3Bを使用します |
 | `r1` | DeepSeek R1 distill Llama 70Bを使用します |
 | `v4f` | DeepSeek V4 Flash 0731を使用します |
