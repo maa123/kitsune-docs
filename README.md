@@ -80,6 +80,8 @@
 | `3.6` | Gemini 3.6 Flashを使用します |
 | `3.7` | Gemini 3.7 Flashを使用します |
 | `3.8` | Gemini 3.8 Flashを使用します |
+| `carbon` | Gemini 4 Carbonを使用します |
+| `hydrogen` | Gemini 4 Hydrogenを使用します |
 | `gpto` | gpt-oss-120bを使用します |
 | `gpt5` | GPT-5 Nanoを使用します |
 | `gpt54` | GPT-5.4 Nanoを使用します |
